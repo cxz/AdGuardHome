@@ -528,7 +528,6 @@
     "dnssec_enable": "DNSSEC inschakelen",
     "dnssec_enable_desc": "Zet de DNSSEC-vlag aan bij uitgaande DNS-query's en controleer het resultaat (DNSSEC-compatibele resolver is vereist)",
     "validated_with_dnssec": "Gevalideerd met DNSSEC",
-    "show_all_responses": "Alle reacties",
     "show_blocked_responses": "Geblokkeerd",
     "show_whitelisted_responses": "Op toestemmingslijst",
     "show_processed_responses": "Verwerkt",

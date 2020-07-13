@@ -528,7 +528,6 @@
     "dnssec_enable": "DNSSEC aktivieren",
     "dnssec_enable_desc": "DNSSEC-Flag in den ausgehenden DNS-Abfragen mitsenden und das Ergebnis überprüfen (DNSSEC-fähiger Resolver erforderlich)",
     "validated_with_dnssec": "Bestätigt mit DNSSEC",
-    "show_all_responses": "Alle Antworten",
     "show_blocked_responses": "Gesperrt",
     "show_whitelisted_responses": "Auf der Positivliste",
     "show_processed_responses": "Verarbeitet",

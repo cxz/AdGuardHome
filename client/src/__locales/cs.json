@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>Další informace</0> o vytváření vlastních seznamů hostitelů.",
     "blocked_by_response": "Zakázáno dle CNAME nebo IP v odpovědi",
+    "blocked_by_cname_or_ip": "Zakázáno dle CNAME nebo IP",
     "try_again": "Zkusit znovu",
     "domain_desc": "Zadejte zástupný znak nebo název domény, kterou chcete přepsat.",
     "example_rewrite_domain": "přepsat odpovědi pouze pro tento název domény.",
@@ -528,7 +529,7 @@
     "dnssec_enable": "Zapnout DNSSEC",
     "dnssec_enable_desc": "Nastavte příznak DNSSEC v následujících DNS dotazech a zkontrolujte výsledek (je potřebný překladač se zapnutým DNSSEC)",
     "validated_with_dnssec": "Ověřeno pomocí DNSSEC",
-    "show_all_responses": "Všechny odpovědi",
+    "all_queries": "Všechny dotazy",
     "show_blocked_responses": "Zablokované",
     "show_whitelisted_responses": "Povolené",
     "show_processed_responses": "Zpracovaný",
@@ -560,5 +561,6 @@
     "filter_category_security_desc": "Seznamy, které se specializují na blokování škodlivého software, zákeřných útoků nebo podvodných domén",
     "filter_category_regional_desc": "Seznamy, které jsou zaměřené na regionální reklamy a sledovací servery",
     "filter_category_other_desc": "Další seznamy zakázaných",
+    "original_response": "Původní odezva",
     "click_to_view_queries": "Klikněte pro zobrazení dotazů"
 }

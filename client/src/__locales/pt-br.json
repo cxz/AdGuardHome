@@ -528,7 +528,6 @@
     "dnssec_enable": "Ativar DNSSEC",
     "dnssec_enable_desc": "Definir a flag DNSSEC nas consultas de DNS em andamento e verificar o resultado (é necessário um resolvedor DNSSEC ativado)",
     "validated_with_dnssec": "Validado com DNSSEC",
-    "show_all_responses": "Todas as respostas",
     "show_blocked_responses": "Bloqueado",
     "show_whitelisted_responses": "Na lista branca",
     "show_processed_responses": "Processado",

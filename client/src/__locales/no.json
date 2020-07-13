@@ -520,7 +520,6 @@
     "dnssec_enable": "Skru på DNSSEC",
     "dnssec_enable_desc": "Fest på DNSSEC-flagg til utgående DNS-forespørsler og sjekk resultatet (En DNS-oppstrømstjener med DNSSEC-støtte er påkrevd)",
     "validated_with_dnssec": "Validert med DNSSEC",
-    "show_all_responses": "Alle svar",
     "show_blocked_responses": "Blokkért",
     "show_whitelisted_responses": "Hvitelistet",
     "show_processed_responses": "Bearbeidet",

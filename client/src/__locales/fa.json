@@ -510,7 +510,6 @@
     "dnssec_enable": "فعالسازی DNSSEC",
     "dnssec_enable_desc": "تنظیم نشان DNSSEC در جستارهای حاصل DNS و بررسی نتیجه (تفکیک کننده DNSSEC-فعال شده نیاز است)",
     "validated_with_dnssec": "معتبر سازی با DNSSEC",
-    "show_all_responses": "همه پاسخ ها",
     "show_blocked_responses": "مسدود شده",
     "show_whitelisted_responses": "لیست سفید",
     "show_processed_responses": "پردازش شده",

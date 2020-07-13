@@ -517,7 +517,6 @@
     "dnssec_enable": "DNSSECを有効にする",
     "dnssec_enable_desc": "DNSクエリの応答にDNSSECフラグを設定し、結果を確認します（DNSSEC対応のリゾルバが必要です）",
     "validated_with_dnssec": "DNSSECにて検証済",
-    "show_all_responses": "すべての応答",
     "show_blocked_responses": "ブロック済",
     "show_whitelisted_responses": "ホワイトリストにあり",
     "show_processed_responses": "処理済",

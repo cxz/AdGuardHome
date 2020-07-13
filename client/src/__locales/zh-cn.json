@@ -528,7 +528,6 @@
     "dnssec_enable": "启用DNSSEC",
     "dnssec_enable_desc": "在发出DNS查询中设置DNSSEC标志并检查结果(需要启用DNSSEC的解析器)",
     "validated_with_dnssec": "通过DNSSEC验证",
-    "show_all_responses": "所有响应",
     "show_blocked_responses": "已拦截",
     "show_whitelisted_responses": "已列入白名单",
     "show_processed_responses": "已处理",

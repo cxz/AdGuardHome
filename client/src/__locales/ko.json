@@ -528,7 +528,6 @@
     "dnssec_enable": "DNSSEC 활성화",
     "dnssec_enable_desc": "발신 DNS 쿼리에서 DNSSEC 플래그를 설정하고 결과를 확인합니다 (DNSSEC-enabled resolver 필수)",
     "validated_with_dnssec": "DNSSEC로 검증됨",
-    "show_all_responses": "모든 응답",
     "show_blocked_responses": "차단됨",
     "show_whitelisted_responses": "예외 적용됨",
     "show_processed_responses": "처리됨",

@@ -528,7 +528,7 @@
     "dnssec_enable": "啟用網域名稱系統安全性擴充功能（DNSSEC）",
     "dnssec_enable_desc": "在發出的 DNS 查詢中設定 DNSSEC 標記並檢查該結果（已啟用 DNSSEC 的解析器是必須的）",
     "validated_with_dnssec": "已用網域名稱系統安全性擴充功能（DNSSEC）驗證",
-    "show_all_responses": "所有的回應",
+    "all_queries": "所有的查詢",
     "show_blocked_responses": "已封鎖的",
     "show_whitelisted_responses": "已列入白名單的",
     "show_processed_responses": "已處理的",

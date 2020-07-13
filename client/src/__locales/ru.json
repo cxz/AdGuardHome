@@ -528,7 +528,6 @@
     "dnssec_enable": "Включить DNSSEC",
     "dnssec_enable_desc": "Установите флаг DNSSEC в исходящих DNS-запросах и проверьте результат (требуется резолвер с поддержкой DNSSEC)",
     "validated_with_dnssec": "Подтверждено с помощью DNSSEC",
-    "show_all_responses": "Все ответы",
     "show_blocked_responses": "Blocked",
     "show_whitelisted_responses": "В белом списке",
     "show_processed_responses": "Обработан",

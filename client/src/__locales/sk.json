@@ -528,7 +528,6 @@
     "dnssec_enable": "Zapnúť DNSSEC",
     "dnssec_enable_desc": "Nastavte príznak DNSSEC v nasledujúcich DNS dopytoch a skontrolujte výsledok (je potrebný prekladač so zapnutým DNSSEC)",
     "validated_with_dnssec": "Overené pomocou DNSSEC",
-    "show_all_responses": "Všetky odpovede",
     "show_blocked_responses": "Zablokované",
     "show_whitelisted_responses": "Obsiahnuté v bielej listine",
     "show_processed_responses": "Spracované",

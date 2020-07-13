@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>Lær mere</0> om at oprette dine egne værtslister.",
     "blocked_by_response": "Blokeret af CNAME eller IP som svar",
+    "blocked_by_cname_or_ip": "Blokeret af CNAME eller IP",
     "try_again": "Prøv igen",
     "domain_desc": "Indtast det domænenavn eller wildcard, du ønsker skal omskrives.",
     "example_rewrite_domain": "omskriv kun svar for dette domænenavn.",
@@ -528,7 +529,7 @@
     "dnssec_enable": "Aktivér DNSSEC",
     "dnssec_enable_desc": "Sæt DNSSEC-flag i de udgående DNS-forespørgsler, og kontroller resultatet (DNSSEC-aktiveret resolver er krævet)",
     "validated_with_dnssec": "Valideret med DNSSEC",
-    "show_all_responses": "Alle svar",
+    "all_queries": "Alle forespørgsler",
     "show_blocked_responses": "Blokeret",
     "show_whitelisted_responses": "Hvidlistet",
     "show_processed_responses": "Behandlet",
@@ -560,5 +561,6 @@
     "filter_category_security_desc": "Lister, der er specialiserede i at blokere malware, phishing eller scam-domæner",
     "filter_category_regional_desc": "Lister, der fokuserer på regionale annoncer og tracking-servere",
     "filter_category_other_desc": "Andre blokeringslister",
+    "original_response": "Oprindeligt svar",
     "click_to_view_queries": "Klik for at se forespørgsler"
 }

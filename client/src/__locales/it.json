@@ -528,7 +528,6 @@
     "dnssec_enable": "Abilita DNSSEC",
     "dnssec_enable_desc": "Imposta la spunta DNSSEC nelle interrogazioni DNS in uscita e verifica il risultato (è richiesta l'attivazione del risolutore DNSSEC)",
     "validated_with_dnssec": "Verificato con DNSSEC",
-    "show_all_responses": "Tutti i responsi",
     "show_blocked_responses": "Bloccato",
     "show_whitelisted_responses": "Nella whitelist",
     "show_processed_responses": "Processato",

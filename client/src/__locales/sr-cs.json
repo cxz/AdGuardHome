@@ -528,7 +528,6 @@
     "dnssec_enable": "Uključi DNSSEC",
     "dnssec_enable_desc": "Postavlja DNSSEC zastavicu u odlaznim DNS zahtevima i proverava rezultat (DNSSEC rešavač je potreban)",
     "validated_with_dnssec": "Potvrđeno sa DNSSEC",
-    "show_all_responses": "Svi odgovori",
     "show_blocked_responses": "Blokirano",
     "show_whitelisted_responses": "Na beloj listi",
     "show_processed_responses": "Obrađeno",

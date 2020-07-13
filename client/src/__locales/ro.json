@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>Aflați mai multe</0> despre crearea propriilor liste hosts.",
     "blocked_by_response": "Blocat de CNAME sau IP ca răspuns",
+    "blocked_by_cname_or_ip": "Blocat de CNAME sau IP",
     "try_again": "Încercați din nou",
     "domain_desc": "Introduceți un nume de domeniu sau wildcard care doriți să fie rescris.",
     "example_rewrite_domain": "rescrie răspunsuri numai pentru acest nume de domeniu.",
@@ -528,7 +529,6 @@
     "dnssec_enable": "Activați DNSSEC",
     "dnssec_enable_desc": "Setați steagul DNSSEC pe interogările DNS de ieșire și verificați rezultatul (este necesar un resolver DNSSEC activat)",
     "validated_with_dnssec": "Validat cu DNSSEC",
-    "show_all_responses": "Toate răspunsurile",
     "show_blocked_responses": "Blocat",
     "show_whitelisted_responses": "Pe lista albă",
     "show_processed_responses": "Tratat",
@@ -560,5 +560,6 @@
     "filter_category_security_desc": "Liste specializate în blocarea domeniilor malware, phishing sau înșelătorie",
     "filter_category_regional_desc": "Liste focalizate pe reclame regionale și servere de urmărire",
     "filter_category_other_desc": "Alte liste de blocări",
+    "original_response": "Răspuns original",
     "click_to_view_queries": "Clicați pentru a vizualiza interogări"
 }
