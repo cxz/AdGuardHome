@@ -479,7 +479,8 @@
     "descr": "Opis",
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>Več o</0> ustvarjanju lastnih seznamov gostiteljev.",
-    "blocked_by_response": "Onemogočeno z CNAME ali IP v odgovoru",
+    "blocked_by_response": "Onemogočeno s CNAME ali IP v odgovoru",
+    "blocked_by_cname_or_ip": "Onemogočeno s CNAME ali IP naslovom",
     "try_again": "Poskusi ponovno",
     "domain_desc": "Vnesite ime domene ali nadomestni znak, ki ga želite prepisati.",
     "example_rewrite_domain": "prepiše odgovore samo za to ime domene.",
@@ -528,9 +529,10 @@
     "dnssec_enable": "Omogoči DNSSEC",
     "dnssec_enable_desc": "V odhodnih poizvedbah DNS nastavite zastavico DNSSEC in preverite rezultat (zahtevan je omogočen reševalnik DNSSEC)",
     "validated_with_dnssec": "Potrjen z DNSSEC",
+    "all_queries": "Vse poizvedbe",
     "show_blocked_responses": "Onemogočen",
     "show_whitelisted_responses": "Na seznamu dovoljenih",
-    "show_processed_responses": "Obdelan",
+    "show_processed_responses": "Obdelana",
     "blocked_safebrowsing": "Onemogočeno z 'Varnim brskanjem'",
     "blocked_adult_websites": "Onemogočeno spletnih strani za odrasle",
     "blocked_threats": "Onemogočeno groženj",
@@ -559,5 +561,6 @@
     "filter_category_security_desc": "Seznami, ki so specializirani za onemogočanje domen zlonamernih programov, lažnega predstavljanja ali prevar",
     "filter_category_regional_desc": "Seznami, ki so osredotočeni na področne oglase in strežnike za sledenje",
     "filter_category_other_desc": "Drugi seznami za zaviranje",
+    "original_response": "Izviren odgovor",
     "click_to_view_queries": "Kliknite za prikaz poizvedb"
 }

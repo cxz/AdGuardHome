@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>Meer informatie</0> over het maken van je eigen host lijsten.",
     "blocked_by_response": "Geblokkeerd door CNAME of IP als antwoord",
+    "blocked_by_cname_or_ip": "Geblokkeerd via CNAME of IP",
     "try_again": "Probeer opnieuw",
     "domain_desc": "Voer de domeinnaam of wildcard in die herschreven moet worden.",
     "example_rewrite_domain": "herschrijf reacties uitsluitend voor deze domeinnaam.",
@@ -528,6 +529,7 @@
     "dnssec_enable": "DNSSEC inschakelen",
     "dnssec_enable_desc": "Zet de DNSSEC-vlag aan bij uitgaande DNS-query's en controleer het resultaat (DNSSEC-compatibele resolver is vereist)",
     "validated_with_dnssec": "Gevalideerd met DNSSEC",
+    "all_queries": "Alle vragen",
     "show_blocked_responses": "Geblokkeerd",
     "show_whitelisted_responses": "Op toestemmingslijst",
     "show_processed_responses": "Verwerkt",
@@ -559,5 +561,6 @@
     "filter_category_security_desc": "Lijsten gespecialiseerd in het blokkeren van malware, phising of scam domeinen",
     "filter_category_regional_desc": "Lijsten die focussen op regionale ads en tracking servers",
     "filter_category_other_desc": "Overige blokkeerlijsten",
+    "original_response": "Oorspronkelijke reactie",
     "click_to_view_queries": "Klik om queries te bekijken"
 }

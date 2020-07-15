@@ -479,7 +479,8 @@
     "descr": "說明",
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>了解更多</0>有關創建您自己的主機（hosts）清單。",
-    "blocked_by_response": "被正規名稱（CNAME）或 IP 封鎖作為回應",
+    "blocked_by_response": "在回應過程中被正規名稱（CNAME）或 IP 封鎖",
+    "blocked_by_cname_or_ip": "被正規名稱（CNAME）或 IP 封鎖",
     "try_again": "再次嘗試",
     "domain_desc": "輸入您想要被改寫的域名或萬用字元（wildcard）。",
     "example_rewrite_domain": "僅對於此域名改寫回應。",
@@ -560,5 +561,6 @@
     "filter_category_security_desc": "專精於封鎖惡意軟體、網路釣魚或詐騙網域之清單",
     "filter_category_regional_desc": "專注於區域性的廣告和追蹤伺服器之清單",
     "filter_category_other_desc": "其它的封鎖清單",
+    "original_response": "原始的回應",
     "click_to_view_queries": "點擊以檢視查詢"
 }

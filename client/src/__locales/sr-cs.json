@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>Saznajte više</0> o stvaranju vaše lične blokliste hostova.",
     "blocked_by_response": "Blokirano od CNAME ili IP u odgovoru",
+    "blocked_by_cname_or_ip": "Blokirano od CNAME ili IP",
     "try_again": "Pokušaj ponovo",
     "domain_desc": "Unesite domen ili džoker koji želite da prepišete.",
     "example_rewrite_domain": "prepiši odgovore samo za ovaj domen.",
@@ -528,6 +529,7 @@
     "dnssec_enable": "Uključi DNSSEC",
     "dnssec_enable_desc": "Postavlja DNSSEC zastavicu u odlaznim DNS zahtevima i proverava rezultat (DNSSEC rešavač je potreban)",
     "validated_with_dnssec": "Potvrđeno sa DNSSEC",
+    "all_queries": "Svi zahtevi",
     "show_blocked_responses": "Blokirano",
     "show_whitelisted_responses": "Na beloj listi",
     "show_processed_responses": "Obrađeno",
@@ -559,5 +561,6 @@
     "filter_category_security_desc": "Lista specijalizovana za blokiranje štetnog softvera, štetnih i fišing domena",
     "filter_category_regional_desc": "Lista koja se usredsređuje na regionalne reklame i servere praćenja",
     "filter_category_other_desc": "Ostale liste blokiranja",
+    "original_response": "Izvorni odgovor",
     "click_to_view_queries": "Kliknite da pogledate zahteve"
 }

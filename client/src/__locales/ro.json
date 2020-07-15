@@ -529,6 +529,7 @@
     "dnssec_enable": "Activați DNSSEC",
     "dnssec_enable_desc": "Setați steagul DNSSEC pe interogările DNS de ieșire și verificați rezultatul (este necesar un resolver DNSSEC activat)",
     "validated_with_dnssec": "Validat cu DNSSEC",
+    "all_queries": "Toate interogările",
     "show_blocked_responses": "Blocat",
     "show_whitelisted_responses": "Pe lista albă",
     "show_processed_responses": "Tratat",

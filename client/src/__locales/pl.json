@@ -162,8 +162,8 @@
     "new_allowlist": "Nowa lista dozwolonych",
     "edit_blocklist": "Edytuj listę zablokowanych",
     "edit_allowlist": "Edytuj listę dozwolonych",
-    "choose_blocklist": "Wybierz czarne listy",
-    "choose_allowlist": "Wybierz białe listy",
+    "choose_blocklist": "Wybierz listy zablokowanych",
+    "choose_allowlist": "Wybierz listy dozwolonych",
     "enter_valid_blocklist": "Wpisz prawidłowy adres URL do listy zablokowanych.",
     "enter_valid_allowlist": "Wpisz prawidłowy adres URL do listy dozwolonych.",
     "form_error_url_format": "Format adresu URL jest nieprawidłowy",
@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>Dowiedz się więcej</0> o tworzeniu własnych list blokowania hostów.",
     "blocked_by_response": "W odpowiedzi zablokowany przez CNAME lub IP",
+    "blocked_by_cname_or_ip": "Zablokowany przez rekord CNAME lub adres IP",
     "try_again": "Spróbuj ponownie",
     "domain_desc": "Wpisz nazwę domeny lub symbol wieloznaczny, który chcesz przepisać.",
     "example_rewrite_domain": "przepisz odpowiedzi tylko dla tej nazwy domeny.",
@@ -528,6 +529,7 @@
     "dnssec_enable": "Włącz DNSSEC",
     "dnssec_enable_desc": "Ustaw flagę DNSSEC w wychodzących zapytaniach DNS i sprawdź wynik (wymagany jest usługodawca z obsługą zabezpieczania DNSSEC)",
     "validated_with_dnssec": "Zweryfikowany przez DNSSEC",
+    "all_queries": "Wszystkie zapytania",
     "show_blocked_responses": "Zablokowane",
     "show_whitelisted_responses": "Biała lista",
     "show_processed_responses": "Przetworzono",
@@ -559,5 +561,6 @@
     "filter_category_security_desc": "Listy, które specjalizują się w blokowaniu domen ze złośliwym oprogramowaniem, phishingiem lub oszustwami",
     "filter_category_regional_desc": "Listy, które koncentrują się na reklamach regionalnych i serwerach ze skryptami śledzącymi",
     "filter_category_other_desc": "Inne listy zablokowanych",
+    "original_response": "Oryginalna odpowiedź",
     "click_to_view_queries": "Kliknij, aby wyświetlić zapytania"
 }
