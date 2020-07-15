@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>Erfahren Sie mehr</0> über die Erstellung eigener Hosts-Listen.",
     "blocked_by_response": "Nach CNAME oder IP-Antwort blockiert",
+    "blocked_by_cname_or_ip": "Gesperrt durch CNAME oder IP",
     "try_again": "Erneut versuchen",
     "domain_desc": "Geben Sie den Domain-Namen oder den Platzhalter ein, der umgeschrieben werden soll.",
     "example_rewrite_domain": "Antworten nur für diesen Domain-Namen umschreiben.",
@@ -528,6 +529,7 @@
     "dnssec_enable": "DNSSEC aktivieren",
     "dnssec_enable_desc": "DNSSEC-Flag in den ausgehenden DNS-Abfragen mitsenden und das Ergebnis überprüfen (DNSSEC-fähiger Resolver erforderlich)",
     "validated_with_dnssec": "Bestätigt mit DNSSEC",
+    "all_queries": "Alle Anfragen",
     "show_blocked_responses": "Gesperrt",
     "show_whitelisted_responses": "Auf der Positivliste",
     "show_processed_responses": "Verarbeitet",
@@ -559,5 +561,6 @@
     "filter_category_security_desc": "Listen, die auf das Sperren von Malware, Phishing- oder Scam-Domains spezialisiert sind",
     "filter_category_regional_desc": "Listen, die sich auf regionale Werbeanzeigen und Tracking-Server konzentrieren",
     "filter_category_other_desc": "Weitere Sperrlisten",
+    "original_response": "Ursprüngliche Antwort",
     "click_to_view_queries": "Anklicken, um Abfragen anzuzeigen"
 }

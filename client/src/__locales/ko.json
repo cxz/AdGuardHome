@@ -480,6 +480,7 @@
     "whois": "후이즈",
     "filtering_rules_learn_more": "차단 리스트를 직접 호스트하는 법을 <0>알아보세요</0>.",
     "blocked_by_response": "응답 중 차단된 CNAME 또는 IP",
+    "blocked_by_cname_or_ip": "CNAME 또는 IP에 의해 차단됨",
     "try_again": "다시 시도해주세요",
     "domain_desc": "다시 작성할 도메인 이름 또는 와일드카드를 입력합니다.",
     "example_rewrite_domain": "이 도메인 이름에 대한 응답을 변경합니다.",
@@ -528,6 +529,7 @@
     "dnssec_enable": "DNSSEC 활성화",
     "dnssec_enable_desc": "발신 DNS 쿼리에서 DNSSEC 플래그를 설정하고 결과를 확인합니다 (DNSSEC-enabled resolver 필수)",
     "validated_with_dnssec": "DNSSEC로 검증됨",
+    "all_queries": "모든 쿼리",
     "show_blocked_responses": "차단됨",
     "show_whitelisted_responses": "예외 적용됨",
     "show_processed_responses": "처리됨",
@@ -559,5 +561,6 @@
     "filter_category_security_desc": "멀웨어, 피싱 또는 사기 도메인을 차단하는 목록",
     "filter_category_regional_desc": "지역 광고 및 추적 서버에 중점을 둔 목록",
     "filter_category_other_desc": "기타 차단 목록",
+    "original_response": "원래 응답",
     "click_to_view_queries": "쿼리를 보려면 클릭합니다"
 }

@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "独自ホストリストの作成についての<0>詳細はこちら</0>。",
     "blocked_by_response": "応答されたCNAMEかIPアドレスによるブロック",
+    "blocked_by_cname_or_ip": "CNAMEもしくはIPアドレスによってブロック済み",
     "try_again": "再試行する",
     "domain_desc": "DNSリライトしたいドメイン名やワイルドカードを入力してください。",
     "example_rewrite_domain": "このドメイン名のみへのレスポンスをリライトする",
@@ -528,6 +529,7 @@
     "dnssec_enable": "DNSSECを有効にする",
     "dnssec_enable_desc": "DNSクエリの応答にDNSSECフラグを設定し、結果を確認します（DNSSEC対応のリゾルバが必要です）",
     "validated_with_dnssec": "DNSSECにて検証済",
+    "all_queries": "すべてのクエリ",
     "show_blocked_responses": "ブロック済",
     "show_whitelisted_responses": "ホワイトリストにあり",
     "show_processed_responses": "処理済",
@@ -559,5 +561,6 @@
     "filter_category_security_desc": "マルウェア、フィッシング、詐欺ドメインのブロック専用リストです。",
     "filter_category_regional_desc": "それぞれの地域の広告と追跡サーバをターゲットするリストです。",
     "filter_category_other_desc": "その他のブロックリストです。",
+    "original_response": "当初の応答",
     "click_to_view_queries": "クエリを表示するにはクリックしてください"
 }

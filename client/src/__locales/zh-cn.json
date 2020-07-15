@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>了解更多</0>关于创建自己的hosts清单。",
     "blocked_by_response": "因响应的CNAME或IP被屏蔽",
+    "blocked_by_cname_or_ip": "按CNAME或IP拦截",
     "try_again": "重试",
     "domain_desc": "输入您要重写的域名或通配符。",
     "example_rewrite_domain": "仅重写此域名的响应。",
@@ -528,6 +529,7 @@
     "dnssec_enable": "启用DNSSEC",
     "dnssec_enable_desc": "在发出DNS查询中设置DNSSEC标志并检查结果(需要启用DNSSEC的解析器)",
     "validated_with_dnssec": "通过DNSSEC验证",
+    "all_queries": "所有查询记录",
     "show_blocked_responses": "已拦截",
     "show_whitelisted_responses": "已列入白名单",
     "show_processed_responses": "已处理",
@@ -559,5 +561,6 @@
     "filter_category_security_desc": "专用于拦截恶意软件、钓鱼或欺诈域名的列表",
     "filter_category_regional_desc": "专注于区域广告和跟踪服务器的列表",
     "filter_category_other_desc": "其他阻止列表",
+    "original_response": "原始响应",
     "click_to_view_queries": "点击查看查询"
 }

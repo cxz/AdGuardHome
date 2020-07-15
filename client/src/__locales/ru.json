@@ -480,6 +480,7 @@
     "whois": "Whois",
     "filtering_rules_learn_more": "<0>Узнайте больше</0> о создании собственных списков блокировки хостов.",
     "blocked_by_response": "Заблокировано по CNAME или IP в ответе",
+    "blocked_by_cname_or_ip": "Заблокировано с помощью CNAME или IP",
     "try_again": "Попробовать еще раз",
     "domain_desc": "Введите имя или маску домена, который вы хотите перенаправить.",
     "example_rewrite_domain": "перенаправляет ответы только для этого домена.",
@@ -528,6 +529,7 @@
     "dnssec_enable": "Включить DNSSEC",
     "dnssec_enable_desc": "Установите флаг DNSSEC в исходящих DNS-запросах и проверьте результат (требуется резолвер с поддержкой DNSSEC)",
     "validated_with_dnssec": "Подтверждено с помощью DNSSEC",
+    "all_queries": "Все запросы",
     "show_blocked_responses": "Blocked",
     "show_whitelisted_responses": "В белом списке",
     "show_processed_responses": "Обработан",
@@ -559,5 +561,6 @@
     "filter_category_security_desc": "Списки, которые специализируются на блокировке вредоносных программ, фишинговых или мошеннических доменов",
     "filter_category_regional_desc": "Списки, которые фокусируются на региональной рекламе и серверах отслеживания",
     "filter_category_other_desc": "Другие списки блокировки",
+    "original_response": "Первоначальный ответ",
     "click_to_view_queries": "Нажмите, чтобы просмотреть запросы"
 }
