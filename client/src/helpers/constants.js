@@ -514,4 +514,6 @@ export const FORM_NAME = {
 
 export const smallScreenSize = 767;
 
+export const maxIPv6 = 'ff';
+
 export const SECONDS_IN_HOUR = 60 * 60;
